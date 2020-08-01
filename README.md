@@ -10,7 +10,7 @@ Main codes of [**CVPR2020 paper "Deep Spatial Gradient and Temporal Depth Learni
 
 * Python 3.6 (numpy, skimage, scipy)
 
-* TensorFlow >= 1.4
+* TensorFlow == 1.14
 
 * opencv2
 
